@@ -132,7 +132,3 @@ docker compose up -d
 ```
 
 This removes the Docker volumes, not the source files.
-
-## Screenshots
-
-Add your actual producer and Spark console screenshots to the `screenshots/` folder after running the project. See [screenshots/README.md](screenshots/README.md).
