@@ -30,7 +30,6 @@ assignment-day-51/
 ├── streaming/
 │   └── spark_streaming_job.py
 ├── screenshots/
-│   └── README.md
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
